@@ -18,3 +18,4 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 
 The first edited
 The 1.2 edit
+The 1.3 edit
